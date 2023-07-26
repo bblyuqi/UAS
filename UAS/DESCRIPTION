@@ -1,0 +1,10 @@
+Package: UAS
+Type: Package
+Title: Statistika Deskriptif
+Version: 1.0
+Author: Prita, Adristi dan Nabila
+Maintainer: Prita, Adristi, Nabila <21611106@students.uii.ac.id>
+Description: Packages untuk mencari statistika deskriptif yaitu nilai rata-rata, median,
+            modus, range, varians, dan standar deviasi
+License: GPL-2|GPL-3
+RoxygenNote: 7.2.3
